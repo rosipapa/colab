@@ -19,6 +19,8 @@ Mall Customer Segmentation
 
 This project focuses on clustering mall customers based on their behavior, preferences, and spending patterns. K-Means algorithm, is an algorithm that iteratively assigns data points to clusters, optimizing them for distinct characteristics. To determine the optimal number of clusters was used the Elbow Method, a visual aid that identifies the point of maximum within-cluster sum of squares. 
 
+Benford Law for First Digit
 
+This project explores Benford's Law, a phenomenon stating that in naturally occurring numerical datasets, smaller digits (1, 2, 3) are more likely to be leading digits. Utilizing statistical tests such as the chi-square test and p-value analysis, it assesses how well real-world datasets conform to this law. The chi-square test determines the statistical significance of any deviations observed, while the p-value indicates the probability of obtaining such results by chance. This analysis offers valuable insights into data integrity and potential irregularities.
 
 
