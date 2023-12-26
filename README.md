@@ -15,7 +15,9 @@ Value vs Effort Matrix for Backlog Prioritization
 
 Understand the rationale behind using a Value vs Effort matrix as a powerful tool for backlog prioritization. This project introduces a matrix that categorizes features based on their value and effort, aiding product owners in making strategic decisions. By visualizing the impact and effort of each feature, this matrix becomes an essential asset for prioritizing backlog items, ensuring a balanced and informed approach to product development.
 
+Mall Customer Segmentation
 
+This project focuses on clustering mall customers based on their behavior, preferences, and spending patterns. K-Means algorithm, is an algorithm that iteratively assigns data points to clusters, optimizing them for distinct characteristics. To determine the optimal number of clusters was used the Elbow Method, a visual aid that identifies the point of maximum within-cluster sum of squares. 
 
 
 
