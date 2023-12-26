@@ -1,5 +1,5 @@
 # README 
-##Titanic Dataset Analysis with CatBoost
+Titanic Dataset Analysis with CatBoost
 
 Explore the Kaggle Titanic dataset with the power of CatBoost, a machine learning library designed for categorical feature support. CatBoost optimizes model training efficiency and accuracy, making it an excellent choice for this classification task. The project delves into feature engineering, model training, and evaluation, demonstrating the prowess of CatBoost in predicting survival outcomes.
 
